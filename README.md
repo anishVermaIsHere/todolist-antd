@@ -1,5 +1,4 @@
-# Todolist App in React 
-Ant Design ProTable - Todolist App in React (Typescript) 
+# Ant Design ProTable - Todolist App in React (Typescript) 
 This App using Fake API (no database or backend) to display the data in Table
 app link: https://todolist-2023.web.app/
 
