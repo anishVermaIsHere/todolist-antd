@@ -17,6 +17,8 @@ This App using Fake API (no database or backend) to display the data in Table
 
 5. Now your app will run successfully.
 
+6. After running the application, click the button **Tasks from API** showing right side.  
+
 **Screenshot**
 ![4](https://user-images.githubusercontent.com/97972189/233591371-a0fab3d9-ba1c-462e-9fb1-7d574a4d9c94.png)
 
